@@ -1,6 +1,6 @@
 ## Jorge Orpinel
 **Software Engineer**  
-[jorge.orpinel.com](http://jorge.orpinel.com) (or [jorgeorpinel.github.io](https://jorgeorpinel.github.io/))
+[jorge.orpinel.com](http://jorge.orpinel.com)
 
 **[Resume](files/2016 Jorge Orpinel Resume.pdf)**
 
