@@ -1,0 +1,122 @@
+﻿* {
+  color: #ffffff;
+  font: 12px arial,sans-serif;
+  padding: 0; margin: 0;
+}
+a {
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover {
+  text-decoration: underline;
+}
+b {font-weight: bold;}
+
+body {
+  width: 100%;
+  height: 100%;
+  background: #000000 url('../img/fondo-negro.jpg') no-repeat center center;
+  margin: 0;
+}
+h1 {
+  font: bold 120% Britannic,arial,sans-serif;
+  text-transform: uppercase;
+}
+
+#content {
+  width: 1024px;
+  height: 725px;
+  margin: auto;
+}
+
+#content-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+  #content-table td {padding: 0;}
+
+#center-area {
+  width: 627px;
+  vertical-align: top;
+}
+
+  #header {
+    width: 627px;
+    height: 233px;
+    background: #000000 url('../img/header.jpg') no-repeat center center;
+    clear: both;
+  }
+  #menu {
+    font: bold 14px/25px Britannic,arial,sans-serif;
+  }
+  #main {
+    color: #000000;
+    width: 627px;
+    min-height: 442px important!; height: 442px;
+    background: #000000 url('../img/fondo-textos.jpg') no-repeat center center;
+  }
+    #main * {
+      color: #000000;
+    }
+    #main p {
+      color: #000000;
+    }
+  #main-content {
+    width: 339px;
+    height: 424px;
+    padding: 9px;
+    background: url('../img/degradado-blanco.png') no-repeat bottom center;
+  }
+  #main-right {
+    width: 280px; height: 100%;
+  }
+    #myspace {
+      width: 167px; height: 26px;
+      margin-left: 10px;
+      position: absolute; bottom: 0;
+      background: url('../img/pestana-myspace .png') no-repeat top center;
+    } #myspace:hover {height: 30px; cursor: pointer;}
+
+#left-area {
+  width: 144px;
+  min-height: 700 important!; height: 700;
+  background: #000000 url('../img/back-izq.jpg') no-repeat center center;
+}
+
+#right-area {
+  vertical-align: top;
+  width: 233px;
+  min-height: 700 important!; height: 700;
+  background: #000000 url('../img/back-der.jpg') no-repeat center center;
+}
+  #galeria {
+    width: 260px; height: 200px;
+    margin: 10px; margin-bottom: 0;
+  }
+  #thumbs {
+    width: 260px; height: 80px;
+    white-space: nowrap;
+    margin: 10px; margin-top: 0;
+    overflow: auto;
+    background: #000000;
+  }
+    #thumbs  img{
+      width: 80px; height: 60px;
+      cursor: pointer;
+    }
+
+#footer {
+  font: 500 12px/25px 'Lucida Fax', Lucida,arial,sans-serif;
+}
+
+.vertical-bar {
+  width: 10px;
+  background: #000000;
+}
+.horizontal-bar {
+  height: 25px;
+  line-height: 25px;
+  background: #000000;
+}
+.right {float: right;}
+.clear {clear: both;}
