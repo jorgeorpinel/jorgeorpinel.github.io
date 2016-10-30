@@ -7,4 +7,6 @@
 ---
 
 > Website based on responsive HTML5 template [Strata](https://html5up.net/strata) by @ajlkn,
-> using [fontawesome.io](http://fontawesome.io/), [html5shiv](https://github.com/aFarkas/html5shiv), [css3pie](http://css3pie.com/), [background-size-polyfill](https://github.com/louisremi/background-size-polyfill), [Respond](https://github.com/scottjehl/Respond), and [skel.io](https://github.com/ajlkn/skel)
+> using [fontawesome.io](fontawesome.io/icons/), [html5shiv](https://github.com/aFarkas/html5shiv), [css3pie](http://css3pie.com/), [background-size-polyfill](https://github.com/louisremi/background-size-polyfill), [Respond](https://github.com/scottjehl/Respond), and [skel.io](https://github.com/ajlkn/skel)
+
+> Also used: [WBW Email Encoder](http://wbwip.com/wbw/emailencoder.html)
